@@ -63,4 +63,7 @@ function Welcome({post,name,summary,rating}) {
       <h3>{rating} ⭐</h3>
 
          </div>  );
+
+
+
 }
